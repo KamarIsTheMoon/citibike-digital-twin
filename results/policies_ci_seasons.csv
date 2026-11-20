@@ -1,0 +1,11 @@
+Season,Policy,Riders affected/day,95% CI low,95% CI high,Days breaking 4 h rule (%),Truck visits/day,Bikes moved/day,Riders nudged/day
+June,AS IS (no intervention),108.7,106.2,111.1,0.0,0.0,0.0,0.0
+June,A. Scheduled trucks,38.8,37.0,40.6,0.0,4.0,85.9,0.0
+June,B. Sensor triggered trucks,12.6,11.9,13.3,0.0,7.7,136.1,0.0
+June,C. Rider incentives only,58.2,56.4,59.9,0.0,0.0,0.0,58.3
+June,D. Sensor trucks + incentives,3.9,3.6,4.3,0.0,7.1,117.9,22.6
+January,AS IS (no intervention),60.4,57.9,63.0,1.2,0.0,0.0,0.0
+January,A. Scheduled trucks,10.6,9.3,11.9,0.0,4.0,80.0,0.0
+January,B. Sensor triggered trucks,3.6,3.2,4.1,0.0,5.6,96.7,0.0
+January,C. Rider incentives only,34.9,33.4,36.4,0.0,0.0,0.0,33.4
+January,D. Sensor trucks + incentives,1.3,1.1,1.6,0.0,5.4,87.8,13.2

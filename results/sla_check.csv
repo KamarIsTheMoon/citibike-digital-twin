@@ -1,0 +1,11 @@
+Season,Policy,Outage share 6am-midnight (%),Longest outage (min)
+June,AS IS (no intervention),39.0,71.0
+June,A. Scheduled trucks,14.0,29.0
+June,B. Sensor triggered trucks,2.4,11.0
+June,C. Rider incentives only,27.4,63.0
+June,D. Sensor trucks + incentives,1.0,7.0
+January,AS IS (no intervention),41.8,95.0
+January,A. Scheduled trucks,10.3,24.0
+January,B. Sensor triggered trucks,1.1,8.0
+January,C. Rider incentives only,32.3,83.0
+January,D. Sensor trucks + incentives,0.4,4.0

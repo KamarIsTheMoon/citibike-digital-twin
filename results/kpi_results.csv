@@ -1,0 +1,6 @@
+Policy,Failed rentals/day,Failed returns/day,Riders affected/day,Minutes empty/day,Minutes full/day,Truck visits/day,Bikes moved/day,Riders nudged/day
+AS IS (no intervention),34.6,73.9,108.5,162.4,259.4,0.0,0.0,0.0
+A. Scheduled trucks,16.1,22.5,38.6,104.1,49.0,4.0,86.6,0.0
+B. Sensor triggered trucks,2.3,10.4,12.7,5.4,20.3,7.8,136.9,0.0
+C. Rider incentives only,14.7,42.8,57.5,96.1,194.8,0.0,0.0,57.7
+D. Sensor trucks + incentives,0.5,3.4,4.0,1.6,9.8,7.2,119.3,22.7

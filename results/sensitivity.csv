@@ -1,0 +1,7 @@
+Docks,Policy,Failed rentals/day,Failed returns/day,Riders affected/day,Minutes empty/day,Minutes full/day,Truck visits/day,Bikes moved/day,Riders nudged/day
+30,AS IS (no intervention),44.2,78.2,122.4,183.7,265.6,0.0,0.0,0.0
+30,D. Sensor trucks + incentives,1.7,8.0,9.7,5.7,22.5,8.6,111.1,27.2
+40,AS IS (no intervention),34.3,73.2,107.5,161.5,253.9,0.0,0.0,0.0
+40,D. Sensor trucks + incentives,0.6,3.5,4.0,1.6,10.0,7.1,119.0,22.7
+50,AS IS (no intervention),24.6,68.2,92.8,131.9,243.4,0.0,0.0,0.0
+50,D. Sensor trucks + incentives,0.2,2.0,2.2,0.7,5.4,5.5,114.9,22.2

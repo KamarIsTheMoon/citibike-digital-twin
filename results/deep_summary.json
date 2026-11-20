@@ -1,0 +1,224 @@
+{
+ "june": {
+  "trips": 97023,
+  "days": 30,
+  "stations": 144,
+  "avg_trips_per_day": 3234.0,
+  "member_share": 0.711,
+  "classic_share": 0.855,
+  "median_minutes": 6.8
+ },
+ "january": {
+  "trips": 56075,
+  "days": 31,
+  "stations": 82,
+  "avg_trips_per_day": 1809.0,
+  "member_share": 0.778,
+  "classic_share": 0.784,
+  "median_minutes": 5.9
+ },
+ "type_counts": {
+  "Morning source (residential)": 61,
+  "Morning sink (commuter destination)": 17
+ },
+ "top_swing": [
+  [
+   "Grove St PATH",
+   176.9,
+   197.2,
+   90.6,
+   "Morning sink (commuter destination)"
+  ],
+  [
+   "Hoboken Terminal - River St & Hudson Pl",
+   128.8,
+   125.0,
+   39.8,
+   "Morning sink (commuter destination)"
+  ],
+  [
+   "South Waterfront Walkway - Sinatra Dr & 1 St",
+   108.9,
+   108.7,
+   23.8,
+   "Morning sink (commuter destination)"
+  ],
+  [
+   "Exchange Pl",
+   55.0,
+   54.8,
+   23.4,
+   "Morning sink (commuter destination)"
+  ],
+  [
+   "Bergen Ave & Sip Ave",
+   51.4,
+   49.5,
+   22.6,
+   "Morning sink (commuter destination)"
+  ],
+  [
+   "Hoboken Terminal - Hudson St & Hudson Pl",
+   90.6,
+   90.0,
+   20.7,
+   "Morning sink (commuter destination)"
+  ],
+  [
+   "Hamilton Park",
+   72.3,
+   73.3,
+   17.8,
+   "Morning source (residential)"
+  ],
+  [
+   "City Hall - Washington St & 1 St",
+   80.3,
+   82.4,
+   17.4,
+   "Morning sink (commuter destination)"
+  ]
+ ],
+ "share_swing_over_20": 0.07692307692307693,
+ "grove_june": {
+  "dep": 176.9,
+  "arr": 197.2,
+  "peak_cum": 88.4
+ },
+ "grove_january": {
+  "dep": 105.2,
+  "arr": 115.2,
+  "peak_cum": 62.1
+ },
+ "policies": [
+  {
+   "Season": "June",
+   "Policy": "AS IS (no intervention)",
+   "Riders affected/day": 108.7,
+   "95% CI low": 106.2,
+   "95% CI high": 111.1,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 0.0,
+   "Bikes moved/day": 0.0,
+   "Riders nudged/day": 0.0
+  },
+  {
+   "Season": "June",
+   "Policy": "A. Scheduled trucks",
+   "Riders affected/day": 38.8,
+   "95% CI low": 37.0,
+   "95% CI high": 40.6,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 4.0,
+   "Bikes moved/day": 85.9,
+   "Riders nudged/day": 0.0
+  },
+  {
+   "Season": "June",
+   "Policy": "B. Sensor triggered trucks",
+   "Riders affected/day": 12.6,
+   "95% CI low": 11.9,
+   "95% CI high": 13.3,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 7.7,
+   "Bikes moved/day": 136.1,
+   "Riders nudged/day": 0.0
+  },
+  {
+   "Season": "June",
+   "Policy": "C. Rider incentives only",
+   "Riders affected/day": 58.2,
+   "95% CI low": 56.4,
+   "95% CI high": 59.9,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 0.0,
+   "Bikes moved/day": 0.0,
+   "Riders nudged/day": 58.3
+  },
+  {
+   "Season": "June",
+   "Policy": "D. Sensor trucks + incentives",
+   "Riders affected/day": 3.9,
+   "95% CI low": 3.6,
+   "95% CI high": 4.3,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 7.1,
+   "Bikes moved/day": 117.9,
+   "Riders nudged/day": 22.6
+  },
+  {
+   "Season": "January",
+   "Policy": "AS IS (no intervention)",
+   "Riders affected/day": 60.4,
+   "95% CI low": 57.9,
+   "95% CI high": 63.0,
+   "Days breaking 4 h rule (%)": 1.2,
+   "Truck visits/day": 0.0,
+   "Bikes moved/day": 0.0,
+   "Riders nudged/day": 0.0
+  },
+  {
+   "Season": "January",
+   "Policy": "A. Scheduled trucks",
+   "Riders affected/day": 10.6,
+   "95% CI low": 9.3,
+   "95% CI high": 11.9,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 4.0,
+   "Bikes moved/day": 80.0,
+   "Riders nudged/day": 0.0
+  },
+  {
+   "Season": "January",
+   "Policy": "B. Sensor triggered trucks",
+   "Riders affected/day": 3.6,
+   "95% CI low": 3.2,
+   "95% CI high": 4.1,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 5.6,
+   "Bikes moved/day": 96.7,
+   "Riders nudged/day": 0.0
+  },
+  {
+   "Season": "January",
+   "Policy": "C. Rider incentives only",
+   "Riders affected/day": 34.9,
+   "95% CI low": 33.4,
+   "95% CI high": 36.4,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 0.0,
+   "Bikes moved/day": 0.0,
+   "Riders nudged/day": 33.4
+  },
+  {
+   "Season": "January",
+   "Policy": "D. Sensor trucks + incentives",
+   "Riders affected/day": 1.3,
+   "95% CI low": 1.1,
+   "95% CI high": 1.6,
+   "Days breaking 4 h rule (%)": 0.0,
+   "Truck visits/day": 5.4,
+   "Bikes moved/day": 87.8,
+   "Riders nudged/day": 13.2
+  }
+ ],
+ "sensitivity_base": 4.18,
+ "sensitivity": {
+  "Truck delay 10 / 40 min": [
+   0.38,
+   14.28
+  ],
+  "Rider reaction 10% / 50%": [
+   1.07,
+   9.05
+  ],
+  "Alert at 10/90% / 25/75%": [
+   1.06,
+   6.8
+  ],
+  "Docks 50 / 30": [
+   2.26,
+   9.62
+  ]
+ }
+}

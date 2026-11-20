@@ -1,0 +1,9 @@
+{
+  "trips": 97023,
+  "days": 30,
+  "stations": 144,
+  "avg_trips_per_day": 3234.0,
+  "member_share": 0.711,
+  "classic_share": 0.855,
+  "median_minutes": 6.8
+}

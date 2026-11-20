@@ -124,3 +124,5 @@ Citi Bike trip history, published by Citi Bike at https://citibikenyc.com/system
 This project started as my Honors work for BAI 3399 System Analysis and Design at Al Akhawayn University (Fall 2026), where I modelled the current system, built the twin, and redesigned the rebalancing process.
 
 **Author:** Kamar Maroihi
+
+Copyright © 2026 Kamar Maroihi. All rights reserved. No part of this work may be copied or reused without permission.
